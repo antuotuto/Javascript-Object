@@ -6,7 +6,7 @@ getElementById\(\)
 
 |  |  |
 | :--- | :--- |
-| docment.title\(\) |  |
+| docment.title\(\) | 改变页面的title |
 
 
 
