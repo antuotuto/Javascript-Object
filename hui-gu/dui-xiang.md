@@ -7,7 +7,7 @@ getElementById\(\)
 | 方法 | 作用 |
 | :--- | :--- |
 | docment.title\(\) | 改变页面的title |
-|  |  |
+| getElementById\(\) | 按Id去找 |
 
 
 
