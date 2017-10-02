@@ -7,4 +7,5 @@
   * [类型](hui-gu/lei-xing.md)
   * [短路表达式](hui-gu/duan-lu-biao-da-shi.md)
   * [函数](hui-gu/han-shu.md)
+  * [对象](hui-gu/dui-xiang.md)
 
