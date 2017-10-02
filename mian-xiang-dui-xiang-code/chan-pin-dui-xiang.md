@@ -21,13 +21,13 @@
             this.images = []
             this.description = '最好的手机'
         }
-
+        
         Product.prototype = {
             buy:function(){
 
             },
             getDetail:function(){
-
+            
             }
         }
 
