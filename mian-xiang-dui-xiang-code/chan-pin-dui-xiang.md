@@ -13,7 +13,6 @@
     <h2 id="title">如何去买一个手机</h2>
     <h3 id="des">奥术大师</h3>
     <div id="price"></div>
-
     <script>
         function Product(){
             this.title = 'iphone8'
@@ -21,14 +20,10 @@
             this.images = []
             this.description = '最好的手机'
         }
-        
-        Product.prototype = {
-            buy:function(){
 
-            },
-            getDetail:function(){
-            
-            }
+        Product.prototype = {
+            buy:function(){},
+            getDetail:function(){}
         }
 
         window.onload = function(){
@@ -40,7 +35,6 @@
             title.innerHTML = me.title
             price.innerHTML = me.price
         }
-
     </script>
 </body>
 </html>
