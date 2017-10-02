@@ -6,5 +6,5 @@
 
 var a = 1;
 
-var b = 1 \|\| c;
+var b = 1 \|\| c 左边的是true返回左边;
 
